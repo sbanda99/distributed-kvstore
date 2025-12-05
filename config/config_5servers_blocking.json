@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {"id": 0, "host": "e5-cse-135-07.cse.psu.edu", "port": 5001},
+    {"id": 1, "host": "e5-cse-135-08.cse.psu.edu", "port": 5001},
+    {"id": 2, "host": "e5-cse-135-09.cse.psu.edu", "port": 5001},
+    {"id": 3, "host": "e5-cse-135-10.cse.psu.edu", "port": 5001},
+    {"id": 4, "host": "e5-cse-135-06.cse.psu.edu", "port": 5001}
+  ],
+  "protocol": "blocking",
+  "read_quorum": 3,
+  "write_quorum": 3,
+  "num_replicas": 5
+}

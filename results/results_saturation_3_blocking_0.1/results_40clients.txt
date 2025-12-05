@@ -1,0 +1,22 @@
+Performance Evaluation Results
+Protocol:        blocking
+Number of Servers: 3
+Number of Clients: 40
+Get Ratio:       10%
+Put Ratio:       90%
+Duration:         60 seconds
+
+Throughput:
+  Total Operations: 195978
+  Throughput:        3266.3 requests/sec
+  Failed Operations: 0
+
+Latency (GET operations):
+  Total GETs:     19547
+  Median:         9024 microseconds
+  95th Percentile: 28849 microseconds
+
+Latency (PUT operations):
+  Total PUTs:     176431
+  Median:         8998 microseconds
+  95th Percentile: 28156 microseconds

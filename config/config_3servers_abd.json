@@ -1,0 +1,12 @@
+{
+  "servers": [
+    {"id": 0, "host": "e5-cse-135-07.cse.psu.edu", "port": 5001},
+    {"id": 1, "host": "e5-cse-135-08.cse.psu.edu", "port": 5001},
+    {"id": 2, "host": "e5-cse-135-09.cse.psu.edu", "port": 5001}
+  ],
+  "protocol": "abd",
+  "read_quorum": 2,
+  "write_quorum": 2,
+  "num_replicas": 3
+}
+

@@ -1,0 +1,10 @@
+{
+  "servers": [
+    {"id": 0, "host": "e5-cse-135-07.cse.psu.edu", "port": 5001}
+  ],
+  "protocol": "abd",
+  "read_quorum": 1,
+  "write_quorum": 1,
+  "num_replicas": 1
+}
+

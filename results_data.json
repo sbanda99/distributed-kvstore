@@ -1,0 +1,632 @@
+{
+  "1": {
+    "90%_GETs": {
+      "abd": {
+        "60": {
+          "throughput": 8179.87,
+          "get_median": 5534,
+          "get_p95": 13019,
+          "put_median": 4180,
+          "put_p95": 11620
+        },
+        "40": {
+          "throughput": 6415.55,
+          "get_median": 4604,
+          "get_p95": 11743,
+          "put_median": 3559,
+          "put_p95": 10711
+        },
+        "30": {
+          "throughput": 5591.9,
+          "get_median": 4285,
+          "get_p95": 11481,
+          "put_median": 3330,
+          "put_p95": 10540
+        },
+        "70": {
+          "throughput": 8801.83,
+          "get_median": 6880,
+          "get_p95": 13836,
+          "put_median": 5156,
+          "put_p95": 12047
+        },
+        "50": {
+          "throughput": 6797.56,
+          "get_median": 5067,
+          "get_p95": 12579,
+          "put_median": 3883,
+          "put_p95": 11358
+        },
+        "20": {
+          "throughput": 3526.27,
+          "get_median": 4302,
+          "get_p95": 11481,
+          "put_median": 3366,
+          "put_p95": 10494
+        },
+        "80": {
+          "throughput": 8480.12,
+          "get_median": 8807,
+          "get_p95": 15155,
+          "put_median": 6628,
+          "put_p95": 12965
+        }
+      },
+      "blocking": {
+        "60": {
+          "throughput": 8483.65,
+          "get_median": 6907,
+          "get_p95": 8288,
+          "put_median": 6818,
+          "put_p95": 8126
+        },
+        "40": {
+          "throughput": 6250.52,
+          "get_median": 5990,
+          "get_p95": 9193,
+          "put_median": 5894,
+          "put_p95": 8973
+        },
+        "30": {
+          "throughput": 4946.63,
+          "get_median": 5310,
+          "get_p95": 6589,
+          "put_median": 5283,
+          "put_p95": 6486
+        },
+        "70": {
+          "throughput": 8218.08,
+          "get_median": 7423,
+          "get_p95": 10675,
+          "put_median": 7334,
+          "put_p95": 10471
+        },
+        "50": {
+          "throughput": 7082.02,
+          "get_median": 6507,
+          "get_p95": 9283,
+          "put_median": 6401,
+          "put_p95": 9081
+        },
+        "20": {
+          "throughput": 2062.38,
+          "get_median": 6777,
+          "get_p95": 12609,
+          "put_median": 6674,
+          "put_p95": 12467
+        },
+        "80": {
+          "throughput": 9583.43,
+          "get_median": 8054,
+          "get_p95": 10498,
+          "put_median": 7960,
+          "put_p95": 10375
+        }
+      }
+    },
+    "90%_PUTs": {
+      "abd": {
+        "60": {
+          "throughput": 11992.7,
+          "get_median": 5652,
+          "get_p95": 8250,
+          "put_median": 4346,
+          "put_p95": 6632
+        },
+        "40": {
+          "throughput": 9927.07,
+          "get_median": 4421,
+          "get_p95": 5896,
+          "put_median": 3457,
+          "put_p95": 4839
+        },
+        "30": {
+          "throughput": 7889.57,
+          "get_median": 4083,
+          "get_p95": 6449,
+          "put_median": 3261,
+          "put_p95": 5353
+        },
+        "70": {
+          "throughput": 11764.8,
+          "get_median": 6951,
+          "get_p95": 10755,
+          "put_median": 5316,
+          "put_p95": 8873
+        },
+        "50": {
+          "throughput": 12091.0,
+          "get_median": 4846,
+          "get_p95": 6384,
+          "put_median": 3764,
+          "put_p95": 5039
+        },
+        "20": {
+          "throughput": 3516.23,
+          "get_median": 5934,
+          "get_p95": 7409,
+          "put_median": 5025,
+          "put_p95": 6490
+        },
+        "80": {
+          "throughput": 10696.9,
+          "get_median": 8767,
+          "get_p95": 13190,
+          "put_median": 6716,
+          "put_p95": 11040
+        }
+      },
+      "blocking": {
+        "60": {
+          "throughput": 5616.63,
+          "get_median": 10125,
+          "get_p95": 14484,
+          "put_median": 10017,
+          "put_p95": 14465
+        },
+        "40": {
+          "throughput": 4092.35,
+          "get_median": 8328,
+          "get_p95": 22638,
+          "put_median": 8217,
+          "put_p95": 22320
+        },
+        "30": {
+          "throughput": 3794.17,
+          "get_median": 6768,
+          "get_p95": 13154,
+          "put_median": 6657,
+          "put_p95": 12990
+        },
+        "70": {
+          "throughput": 6287.53,
+          "get_median": 10859,
+          "get_p95": 14449,
+          "put_median": 10739,
+          "put_p95": 14400
+        },
+        "50": {
+          "throughput": 3598.15,
+          "get_median": 8633,
+          "get_p95": 30653,
+          "put_median": 8526,
+          "put_p95": 30525
+        },
+        "20": {
+          "throughput": 3194.57,
+          "get_median": 5324,
+          "get_p95": 10123,
+          "put_median": 5310,
+          "put_p95": 9849
+        },
+        "80": {
+          "throughput": 6694.02,
+          "get_median": 11024,
+          "get_p95": 15561,
+          "put_median": 10915,
+          "put_p95": 15584
+        }
+      }
+    }
+  },
+  "3": {
+    "90%_GETs": {
+      "abd": {
+        "60": {
+          "throughput": 3614.62,
+          "get_median": 16858,
+          "get_p95": 23205,
+          "put_median": 11839,
+          "put_p95": 17763
+        },
+        "40": {
+          "throughput": 3485.07,
+          "get_median": 11569,
+          "get_p95": 17151,
+          "put_median": 6816,
+          "put_p95": 11694
+        },
+        "30": {
+          "throughput": 3876.42,
+          "get_median": 7236,
+          "get_p95": 12723,
+          "put_median": 4984,
+          "put_p95": 8744
+        },
+        "70": {
+          "throughput": 3416.12,
+          "get_median": 20258,
+          "get_p95": 26639,
+          "put_median": 15375,
+          "put_p95": 21479
+        },
+        "50": {
+          "throughput": 3528.55,
+          "get_median": 13602,
+          "get_p95": 19733,
+          "put_median": 9108,
+          "put_p95": 15317
+        },
+        "20": {
+          "throughput": 2514.65,
+          "get_median": 7200,
+          "get_p95": 13066,
+          "put_median": 5059,
+          "put_p95": 8300
+        },
+        "80": {
+          "throughput": 3429.33,
+          "get_median": 23932,
+          "get_p95": 30832,
+          "put_median": 18436,
+          "put_p95": 25324
+        }
+      },
+      "blocking": {
+        "60": {
+          "throughput": 4048.83,
+          "get_median": 13867,
+          "get_p95": 20260,
+          "put_median": 13769,
+          "put_p95": 20162
+        },
+        "40": {
+          "throughput": 3423.3,
+          "get_median": 8353,
+          "get_p95": 12680,
+          "put_median": 8352,
+          "put_p95": 13093
+        },
+        "30": {
+          "throughput": 2167.11,
+          "get_median": 9591,
+          "get_p95": 13129,
+          "put_median": 9664,
+          "put_p95": 13191
+        },
+        "70": {
+          "throughput": 301.317,
+          "get_median": 17425,
+          "get_p95": 25086,
+          "put_median": 17290,
+          "put_p95": 24939
+        },
+        "50": {
+          "throughput": 2404.53,
+          "get_median": 14193,
+          "get_p95": 21105,
+          "put_median": 14177,
+          "put_p95": 21127
+        },
+        "20": {
+          "throughput": 1606.15,
+          "get_median": 9379,
+          "get_p95": 33048,
+          "put_median": 9414,
+          "put_p95": 33607
+        },
+        "80": {
+          "throughput": 2404.53,
+          "get_median": 16425,
+          "get_p95": 21086,
+          "put_median": 17325,
+          "put_p95": 22086
+        }
+      }
+    },
+    "90%_PUTs": {
+      "abd": {
+        "60": {
+          "throughput": 4259.03,
+          "get_median": 16398,
+          "get_p95": 25475,
+          "put_median": 12763,
+          "put_p95": 21407
+        },
+        "40": {
+          "throughput": 4475.68,
+          "get_median": 8709,
+          "get_p95": 20349,
+          "put_median": 6431,
+          "put_p95": 16258
+        },
+        "30": {
+          "throughput": 3695.75,
+          "get_median": 8160,
+          "get_p95": 18051,
+          "put_median": 6191,
+          "put_p95": 14581
+        },
+        "70": {
+          "throughput": 3950.97,
+          "get_median": 21160,
+          "get_p95": 32860,
+          "put_median": 16420,
+          "put_p95": 25629
+        },
+        "50": {
+          "throughput": 4516.22,
+          "get_median": 11330,
+          "get_p95": 21198,
+          "put_median": 8303,
+          "put_p95": 17956
+        },
+        "20": {
+          "throughput": 2492.2,
+          "get_median": 7344,
+          "get_p95": 19840,
+          "put_median": 5800,
+          "put_p95": 15055
+        },
+        "80": {
+          "throughput": 3842.17,
+          "get_median": 25098,
+          "get_p95": 35923,
+          "put_median": 19344,
+          "put_p95": 28285
+        }
+      },
+      "blocking": {
+        "60": {
+          "throughput": 3876.1,
+          "get_median": 13397,
+          "get_p95": 21122,
+          "put_median": 13314,
+          "put_p95": 21087
+        },
+        "40": {
+          "throughput": 3266.3,
+          "get_median": 9024,
+          "get_p95": 28849,
+          "put_median": 8998,
+          "put_p95": 28156
+        },
+        "30": {
+          "throughput": 1335.72,
+          "get_median": 11705,
+          "get_p95": 80609,
+          "put_median": 11773,
+          "put_p95": 81550
+        },
+        "70": {
+          "throughput": 4110.42,
+          "get_median": 16783,
+          "get_p95": 23286,
+          "put_median": 16767,
+          "put_p95": 23239
+        },
+        "50": {
+          "throughput": 4457.8,
+          "get_median": 10442,
+          "get_p95": 15935,
+          "put_median": 10434,
+          "put_p95": 15907
+        },
+        "20": {
+          "throughput": 2171.37,
+          "get_median": 6873,
+          "get_p95": 13546,
+          "put_median": 6861,
+          "put_p95": 13502
+        },
+        "80": {
+          "throughput": 2651.88,
+          "get_median": 21053,
+          "get_p95": 99056,
+          "put_median": 21015,
+          "put_p95": 101102
+        }
+      }
+    }
+  },
+  "5": {
+    "90%_GETs": {
+      "abd": {
+        "60": {
+          "throughput": 2306.2,
+          "get_median": 24287,
+          "get_p95": 36113,
+          "put_median": 17747,
+          "put_p95": 27500
+        },
+        "40": {
+          "throughput": 2644.38,
+          "get_median": 14367,
+          "get_p95": 23982,
+          "put_median": 10966,
+          "put_p95": 19812
+        },
+        "30": {
+          "throughput": 2616.18,
+          "get_median": 10006,
+          "get_p95": 18769,
+          "put_median": 7277,
+          "put_p95": 16181
+        },
+        "70": {
+          "throughput": 2076.4,
+          "get_median": 31136,
+          "get_p95": 46605,
+          "put_median": 21954,
+          "put_p95": 43500
+        },
+        "50": {
+          "throughput": 2295.73,
+          "get_median": 20507,
+          "get_p95": 34496,
+          "put_median": 14899,
+          "put_p95": 24185
+        },
+        "20": {
+          "throughput": 2041.37,
+          "get_median": 7998,
+          "get_p95": 17232,
+          "put_median": 6152,
+          "put_p95": 15459
+        },
+        "80": {
+          "throughput": 2029.27,
+          "get_median": 37277,
+          "get_p95": 53917,
+          "put_median": 28869,
+          "put_p95": 52468
+        }
+      },
+      "blocking": {
+        "60": {
+          "throughput": 2411.02,
+          "get_median": 24503,
+          "get_p95": 32963,
+          "put_median": 24496,
+          "put_p95": 33031
+        },
+        "40": {
+          "throughput": 2622.97,
+          "get_median": 13665,
+          "get_p95": 20908,
+          "put_median": 13655,
+          "put_p95": 21030
+        },
+        "30": {
+          "throughput": 2743.47,
+          "get_median": 10288,
+          "get_p95": 15025,
+          "put_median": 10297,
+          "put_p95": 15021
+        },
+        "70": {
+          "throughput": 1730.57,
+          "get_median": 30703,
+          "get_p95": 117464,
+          "put_median": 30633,
+          "put_p95": 116780
+        },
+        "50": {
+          "throughput": 2520.0,
+          "get_median": 19293,
+          "get_p95": 26291,
+          "put_median": 19297,
+          "put_p95": 26287
+        },
+        "20": {
+          "throughput": 1881.85,
+          "get_median": 8035,
+          "get_p95": 10759,
+          "put_median": 8046,
+          "put_p95": 10947
+        },
+        "80": {
+          "throughput": 1036.62,
+          "get_median": 62576,
+          "get_p95": 159630,
+          "put_median": 62436,
+          "put_p95": 164302
+        }
+      }
+    },
+    "90%_PUTs": {
+      "abd": {
+        "40": {
+          "throughput": 2627.61,
+          "get_median": 16946,
+          "get_p95": 26907,
+          "put_median": 13054,
+          "put_p95": 21627
+        },
+        "30": {
+          "throughput": 2998.9,
+          "get_median": 10288,
+          "get_p95": 19753,
+          "put_median": 7519,
+          "put_p95": 16408
+        },
+        "70": {
+          "throughput": 2465.0,
+          "get_median": 38205,
+          "get_p95": 52733,
+          "put_median": 26383,
+          "put_p95": 35456
+        },
+        "50": {
+          "throughput": 2559.1,
+          "get_median": 24221,
+          "get_p95": 35623,
+          "put_median": 17938,
+          "put_p95": 26925
+        },
+        "20": {
+          "throughput": 2346.8,
+          "get_median": 7962,
+          "get_p95": 17255,
+          "put_median": 6058,
+          "put_p95": 15083
+        },
+        "80": {
+          "throughput": 2331.82,
+          "get_median": 44534,
+          "get_p95": 60149,
+          "put_median": 30384,
+          "put_p95": 40446
+        },
+        "60": {
+          "throughput": 2449.1,
+          "get_median": 22321,
+          "get_p95": 33423,
+          "put_median": 17731,
+          "put_p95": 27925
+        }
+      },
+      "blocking": {
+        "60": {
+          "throughput": 2299.07,
+          "get_median": 24536,
+          "get_p95": 35391,
+          "put_median": 24620,
+          "put_p95": 36076
+        },
+        "40": {
+          "throughput": 2368.52,
+          "get_median": 13627,
+          "get_p95": 23429,
+          "put_median": 13715,
+          "put_p95": 24125
+        },
+        "30": {
+          "throughput": 2251.5,
+          "get_median": 10394,
+          "get_p95": 16852,
+          "put_median": 10399,
+          "put_p95": 17142
+        },
+        "70": {
+          "throughput": 2269.6,
+          "get_median": 29491,
+          "get_p95": 38863,
+          "put_median": 29522,
+          "put_p95": 38921
+        },
+        "50": {
+          "throughput": 2502.55,
+          "get_median": 19385,
+          "get_p95": 27212,
+          "put_median": 19405,
+          "put_p95": 27127
+        },
+        "20": {
+          "throughput": 917.733,
+          "get_median": 8751,
+          "get_p95": 81752,
+          "put_median": 8682,
+          "put_p95": 82414
+        },
+        "80": {
+          "throughput": 2302.82,
+          "get_median": 34635,
+          "get_p95": 45563,
+          "put_median": 34528,
+          "put_p95": 45525
+        }
+      }
+    }
+  }
+}

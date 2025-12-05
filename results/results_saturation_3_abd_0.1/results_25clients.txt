@@ -1,0 +1,22 @@
+Performance Evaluation Results
+Protocol:        abd
+Number of Servers: 3
+Number of Clients: 25
+Get Ratio:       10%
+Put Ratio:       90%
+Duration:         60 seconds
+
+Throughput:
+  Total Operations: 217921
+  Throughput:        3632.02 requests/sec
+  Failed Operations: 0
+
+Latency (GET operations):
+  Total GETs:     21773
+  Median:         5638 microseconds
+  95th Percentile: 14435 microseconds
+
+Latency (PUT operations):
+  Total PUTs:     196148
+  Median:         4229 microseconds
+  95th Percentile: 13206 microseconds
